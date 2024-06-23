@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Aerialyn
+- 👀 I’m interested in creating a Discord bot
+- 🌱 I’m currently learning C++ and Python
+- 📫 How to reach me ... @lucialu on Discord
+- 😄 Pronouns: She/her (Only)
+- ⚡ Fun fact: NCS is goated
